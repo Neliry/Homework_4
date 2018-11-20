@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework _4</string>
+
+    <string name="category_days">Days</string>
+    <string name="category_months">Months</string>
+    <string name="category_zodiac_signs">Zodiac Signs</string>
+</resources>
